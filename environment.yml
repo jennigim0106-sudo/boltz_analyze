@@ -1,0 +1,14 @@
+name: boltz_analyze
+channels:
+  - conda-forge
+  - schrodinger
+  - defaults
+
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - numpy
+  - matplotlib
+  - pymol-open-source
+  - pip

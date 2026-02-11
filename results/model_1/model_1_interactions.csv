@@ -1,0 +1,16 @@
+interaction_type,protein_resn,protein_resi,protein_atom,ligand_atom,distance
+hbond,GLU,455,OE2,O60,3.349
+hbond,ARG,450,NH2,O70,2.67
+hbond,ASP,453,N,O70,3.393
+hbond,SER,454,OG,O71,2.428
+hbond,SER,454,N,O71,2.946
+hbond,SER,452,OG,O71,3.424
+hydrophobic,GLN,478,CA,S72,3.435
+hydrophobic,GLN,478,CB,C73,3.794
+hydrophobic,GLN,478,CB,C79,3.801
+hydrophobic,PRO,479,CD,C79,3.596
+hydrophobic,ASN,476,CB,C88,3.613
+hydrophobic,ASN,476,CB,C94,3.94
+hydrophobic,PRO,479,CD,C95,3.361
+hydrophobic,PRO,479,CD,C97,3.895
+hydrophobic,PRO,479,CD,C98,3.556

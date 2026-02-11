@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/compare_struct/bin/python",
+    "python.analysis.extraPaths": ["./"]
+  }
+  

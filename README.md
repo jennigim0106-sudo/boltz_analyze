@@ -1,8 +1,8 @@
 1. Environment Setup
-    conda env create -f environment.yml
-    conda activate boltz_analysis
+    * conda env create -f environment.yml
+    ( conda activate boltz_analysis
 
-2. Run App
+2. Run App: 
     streamlit run main.py
 
 3. Required Input
@@ -16,6 +16,6 @@
 
 4. Output
     For each selected model:
-        - interaction CSV
-        - pLDDT plot
-        - PAE heatmap
+        * interaction CSV
+        * pLDDT plot
+        * PAE heatmap
